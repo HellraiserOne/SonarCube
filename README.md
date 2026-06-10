@@ -1,2 +1,0 @@
-# SonarCube
-Sonarcube Practice
